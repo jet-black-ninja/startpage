@@ -18,13 +18,13 @@ const default_config = {
               name: "gmail",
               url: "https://mail.google.com",
               icon: "brand-gmail",
-              icon_color: palette.blue,
+              icon_color: palette.red,
             },
             {
               name: "classroom",
-              url: "https://classroom.google.com/u/1/",
-              icon: "books",
-              icon_color: palette.green,
+              url: "https://roadmap.sh",
+              icon: "map",
+              icon_color: palette.blue,
             },
             {
               name: "docs",
