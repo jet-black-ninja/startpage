@@ -9,7 +9,7 @@ const default_config = {
   tabs: [
     {
       name: "home",
-      background_url: `src/img/banners/cbg-8.gif`,
+      background_url: `src/img/banners/cbg-13.gif`,
       categories: [
         {
           name: "",
@@ -62,7 +62,7 @@ const default_config = {
           links: [
             {
               name: "github",
-              url: "https://github.com/ashish0kumar",
+              url: "https://github.com/jet-black-ninja",
               icon: "brand-github",
               icon_color: palette.green,
             },
@@ -85,7 +85,7 @@ const default_config = {
           links: [
             {
               name: "leetcode",
-              url: "https://leetcode.com/u/ashish0kumar/",
+              url: "https://leetcode.com/u/sachinkmrsin/",
               icon: "brand-leetcode",
               icon_color: palette.yellow,
             },
